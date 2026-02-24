@@ -1,0 +1,5 @@
+models:
+  gemma3_local:
+    provider: ollama
+    endpoint: http://localhost:11435
+    model_name: gemma3:1b
